@@ -6,3 +6,4 @@ Instruuciones para el proyecto
 5. Actualiza el repositorio github (push)
 6. Ejecuta el proyecto con Python main.py
 7. Probar el sistema
+8. Uso de gitgraph
